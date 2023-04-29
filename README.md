@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SilentGuy00
+- 👀 I’m interested in coding JS, HTML, CSS, LUA, PHP, C#
+- 🌱 I’m currently learning JS, LUA
